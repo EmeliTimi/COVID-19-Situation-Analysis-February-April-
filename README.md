@@ -1,8 +1,4 @@
-'s your full GitHub README.md file for the COVID-19 Dashboard, professionally styled like your other dashboards (Shoprite, Healthcare, Leverage, MEGA PROLAN) — complete with your custom Table of Contents:
 
-markdown
-Copy
-Edit
 # 🦠 COVID-19 Global Impact Dashboard – 2020–2022
 
 > This project presents an Excel-based interactive COVID-19 Dashboard analyzing global case trends, death rates, recovery counts, and testing metrics. It offers visual insights to support data-driven understanding of the pandemic’s evolution and impact.
